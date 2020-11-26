@@ -1,0 +1,9 @@
+scikit-learn
+Flask==1.1.2
+Flask-WTF==0.14.3
+pandas==1.0.3
+requests==2.23.0
+urllib3==1.25.8
+WTForms==2.2.1
+dill
+catboost
